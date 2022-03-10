@@ -30,6 +30,6 @@ namespace _1
         {
             get { return protyazh; }
             set { protyazh = value; }
-        }
+        } 
     }
 }
