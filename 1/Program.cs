@@ -36,7 +36,7 @@ namespace Labal1
         static void Main(string[] args)
         {
             Address first = new Address("Полота", "325245", 4356356);
-            first.Print();
+            first.Print(); 
             Console.ReadKey();
         }
     }
